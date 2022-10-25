@@ -66,4 +66,34 @@ button {
     color: #d6d6d6;
 }
   
+/* Lista */
+
+.list {
+    margin: 30px;
   
+}
+
+.list ul {
+    list-style: none;
+}
+
+.cerchio {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: solid;
+    line-height: 15px;
+    
+
+}
+
+.done {
+    border-color: green;
+    color: green;
+
+}
+
+.to-do {
+
+}
