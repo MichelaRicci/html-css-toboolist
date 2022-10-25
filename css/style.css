@@ -15,6 +15,7 @@ header {
     width: 100%;
     background-color: #ffffff;
     padding: 10px;
+    margin-bottom: 30px;
   
 }
 
@@ -39,6 +40,10 @@ h1 {
 }
   
 /* Pulsanti */
+
+.add {
+    padding: 10px 30px;
+}
   
 button {
     border-radius: 3px;
@@ -51,12 +56,14 @@ button {
 .b-button {
     background-color: #1b90ff;
     border-color: #1b90ff;
+    color: #ffffff;
 
 }
   
 .w-button {
     background-color: #ffffff;
-    border-color: #d9d9d9;
+    border-color: #d6d6d6;
+    color: #d6d6d6;
 }
   
   
