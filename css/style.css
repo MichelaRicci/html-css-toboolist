@@ -97,3 +97,11 @@ button {
 .to-do {
 
 }
+
+/* Etichette */
+.label {
+    background-color: rgb(30, 188, 236);
+    height: 15px;
+    border-radius: 15px;
+    padding: 5px;
+}
