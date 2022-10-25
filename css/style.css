@@ -30,4 +30,33 @@ h1 {
     font-size: 40px;
   
 }
+
+.container {
+    margin: auto;
+    width: 60%;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+  
+/* Pulsanti */
+  
+button {
+    border-radius: 3px;
+    border-width: thin;
+    padding: 5px;
+    
+  
+}
+  
+.b-button {
+    background-color: #1b90ff;
+    border-color: #1b90ff;
+
+}
+  
+.w-button {
+    background-color: #ffffff;
+    border-color: #d9d9d9;
+}
+  
   
