@@ -7,7 +7,7 @@
 
 body {
     background-color: #d6d6d6;
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
   
@@ -25,15 +25,15 @@ header {
 }
   
 h1 {
-    display: inline-block;
+    display: inline;
     vertical-align: middle;
-    font-weight: bold;
-    font-size: 40px;
+    font-weight:900;
+    font-size: 38px;
   
 }
 
 .container {
-    margin: auto;
+    margin: 0 auto;
     width: 50%;
     border-radius: 5px;
     background-color: #ffffff;
@@ -42,10 +42,11 @@ h1 {
   
 /* Pulsanti */
 
-.add {
+.card {
     padding: 10px 30px;
+    border-bottom: 1px solid #d6d6d6;
 }
-  
+
 button {
     border-radius: 5px;
     border: 1px solid transparent;
